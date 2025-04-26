@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428100296492",
+    "project_id": "pawmatchanahit",
+    "storage_bucket": "pawmatchanahit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428100296492:android:440f9e3952c1b906f85689",
+        "android_client_info": {
+          "package_name": "com.anahit.pawmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9UJCrEj9PhE0q5tTMiE7ofCHh4LWSKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

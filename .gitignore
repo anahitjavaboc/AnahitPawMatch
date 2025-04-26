@@ -1,0 +1,24 @@
+# Android Studio
+.idea/
+*.iml
+build/
+local.properties
+captures/
+.externalNativeBuild
+.cxx/
+*.apk
+*.aar
+*.ap_
+
+# Firebase
+google-services.json
+
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+gradle-wrapper.jar
+
+# macOS
+.DS_Store

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PawMatch" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/orange_background</item>
+        <item name="colorPrimaryVariant">@color/orange_background</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/orange_background</item>
+    </style>
+</resources>
